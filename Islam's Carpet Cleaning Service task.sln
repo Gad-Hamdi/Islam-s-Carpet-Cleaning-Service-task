@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Islam's Carpet Cleaning Service task", "Islam's Carpet Cleaning Service task.csproj", "{75761935-DF1D-45BA-BF76-938AF1204A4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75761935-DF1D-45BA-BF76-938AF1204A4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75761935-DF1D-45BA-BF76-938AF1204A4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75761935-DF1D-45BA-BF76-938AF1204A4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75761935-DF1D-45BA-BF76-938AF1204A4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41352EA8-D360-439E-ABD4-77DD5A53E18F}
+	EndGlobalSection
+EndGlobal
